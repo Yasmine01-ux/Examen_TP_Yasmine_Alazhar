@@ -1,1 +1,1 @@
-# Examen_TP_Yasmine_Alazhar
+Ce projet est utilisé pour l'évaluation des compétances Git
